@@ -2,20 +2,21 @@
 
 ### Bienvenido a mi perfil de GitHub
 
-Soy un **estudiante de programación** apasionado por la tecnología y el aprendizaje continuo. Actualmente me encuentro enfocado en mejorar mis habilidades y desarrollar proyectos que me permitan poner en práctica lo que aprendo. Mi perfil está en constante actualización conforme avanzo en este camino.
-
+Soy un **estudiante de programación** apasionado por la tecnología y el aprendizaje continuo. Actualmente me encuentro enfocado en mejorar mis skills y desarrollar proyectos que me permitan poner en práctica lo que aprendo. Estamos en constante actualización, asi que no te desconectes ¡o te lo pierdes!
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 Algunas cosas sobre mí
 
-Desde que comencé a explorar el mundo de la programación, me ha fascinado la posibilidad de crear soluciones y herramientas que faciliten la vida de las personas. Mis metas incluyen:
+Desde que comencé a explorar el mundo de la programación, me ha fascinado la posibilidad de crear soluciones y herramientas que faciliten la vida de las personas.
+Tengo un una frase que es "Escribe tu codigo y escribiras tu destino" por eso quiero:
 
 - Convertirme en un desarrollador web full-stack.
 - Desarrollar proyectos que resuelvan problemas reales.
 - Colaborar con otros desarrolladores para aprender en equipo.
 - Contribuir a proyectos de código abierto.
+- Estudiar para formarme en Etical Hacking
 
-Mi enfoque principal en este momento es aprender y dominar los fundamentos del desarrollo web, junto con las buenas prácticas de programación.
+Mi enfoque principal en este momento es aprender y dominar los fundamentos del desarrollo web, junto con las buenas prácticas de programación para enfocarme mas a la Ciberseguridad
 
 ---
 
@@ -55,21 +56,19 @@ Aquí tienes una visualización de mi progreso actual en diferentes tecnologías
 | CSS            | ⭐⭐✩✩✩          |
 | MARKDOWN       | ⭐⭐✩✩✩          |
 
-### Gráfico de habilidades (simulado con tablas)
-
 #### Tecnologías Frontend
 
-| HTML5      | ████████▍   | 60% |
-| CSS        | ████▍       | 40% |
+| Tecnología | Nivel      | Progreso |
+|------------|------------|----------|
+| HTML5      | ██████▍    | 60%      |
+| CSS        | ████▍      | 40%      |
 
 #### Tecnologías Backend
 
-| JAVA     | █████████▏       | 80% |
-| SQL      | ███████▎         | 75% |
-
-
----
-
+| Tecnología | Nivel         | Progreso |
+|------------|---------------|----------|
+| JAVA       | █████████▏    | 80%      |
+| SQL        | ███████▎      | 75%      |
 ## 📫 Contacto
 
 Me encantaría conectarme contigo. Puedes encontrarme en las siguientes redes sociales:
