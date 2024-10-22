@@ -16,6 +16,14 @@ Tengo un una frase que es "Escribe tu codigo y escribiras tu destino" por eso qu
 - Contribuir a proyectos de código abierto.
 - Estudiar para formarme en Etical Hacking
 
+Actualmente me encuentro cursando el Grado Superior en Desarrollo de Aplicaciones Web, en el IES La Conservera
+Me encuentro matriculado en las asignaturas de
+- Sistemas Informaticos.
+- Programación.
+- Digitalización aplicada al sistema productivo.
+- Lenguajes de marcas y sistemas de gestiñon de información.
+- Ingles
+
 Mi enfoque principal en este momento es aprender y dominar los fundamentos del desarrollo web, junto con las buenas prácticas de programación para enfocarme mas a la Ciberseguridad
 
 ---
